@@ -1,0 +1,19 @@
+/**
+Unisa Color Pallete to be used in any color Matching and Modifications
+@Author Peace Ngara
+*/
+
+/*Colors or Background Colors*/
+.unisa-blue     {color: #172652 !important}
+.unisa-red      {color: #930010 !important}
+.unisa-black    {color: #222222 !important}
+.unisa-orange   {color: #F7931D !important}
+.unisa-grey  {color: #777777 !important}
+
+/*Other elements*/
+/*This refers to a class element you will create*/
+.this {border-radius: 4px;}
+.this {font-family: arial; font-size: 14px; color:#333333; line-height: 1.42857143;}
+
+/* Icons */
+/*Font-awesome Icons*/
