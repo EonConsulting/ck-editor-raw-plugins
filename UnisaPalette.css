@@ -4,11 +4,21 @@ Unisa Color Pallete to be used in any color Matching and Modifications
 */
 
 /*Colors or Background Colors*/
+/* Example Usage <p class"unisa-blue"></p> */
 .unisa-blue     {color: #172652 !important}
 .unisa-red      {color: #930010 !important}
 .unisa-black    {color: #222222 !important}
 .unisa-orange   {color: #F7931D !important}
-.unisa-grey  {color: #777777 !important}
+.unisa-grey     {color: #777777 !important}
+
+/* Buttons */
+/* Example Usage <btn class="unisa-blue-btn"> */
+.unisa-blue-btn     {background: #172652 !important; border-color: #172652; color:#fff;}
+.unisa-red-btn      {background: #930010 !important; border-color: #930010; color:#fff;}
+.unisa-black-btn    {background: #222222 !important; border-color: #222222; color:#fff;}
+.unisa-orange-btn   {background: #F7931D !important; border-color: #F7931D; color:#fff;}
+.unisa-grey-btn     {background: #777777 !important; border-color: #777777; color:#fff;}
+
 
 /*Other elements*/
 /*This refers to a class element you will create*/
