@@ -9,5 +9,5 @@ A List of Raw Plugins with no Frameworks Added, Plugins use only JS and HTML
 <li>Print to PDF</li>
 </ul>
 
-[Plugins are Location]
+[Plugins Location]
 (https://github.com/EonConsulting/ck-editor-raw-plugins/tree/master/ckeditor-dev/plugins)
